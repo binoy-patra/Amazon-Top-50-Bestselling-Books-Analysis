@@ -18,10 +18,10 @@ Understanding the factors contributing to the success of books on Amazon is cruc
 
 ## Dataset
 
-Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
-Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 books, data has been categorized into fiction and non-fiction using Goodreads.
+Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)         
+Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 books, data has been categorized into fiction and non-fiction using Goodreads.         
 
-The dataset used in this analysis includes:
+The dataset used in this analysis includes:      
 Name: Name of the Book				
 Author: The author of the Book			
 User Rating: Amazon User Rating  		     
